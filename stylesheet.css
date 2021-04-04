@@ -1,5 +1,12 @@
-body p {
-    color: red;
-    font-weight: bold;
-    text-align: center;
+#google-logo {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 200px;
+    max-width: 100%;
 }
+
+#search {
+    
+}
+
